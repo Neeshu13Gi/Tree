@@ -1,0 +1,42 @@
+{
+  "apiKey": "5c198c540ab5fb1a7c5b6fa39e8273d16b4b4a7b24d3acf",
+  "apiUrls": [
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/kings",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVW6JX5NDCHFTA5CDQ78/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVWH8ZPP9GWSGKG4TXQ4/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVWHVK3BQA9FB99XQQEH/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVWZ49DXNZAHPJPKTF6G/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVY20BGM3EQ1R6DCN100/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FVZ8Z9P2ZWQPR5R2PYT5/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW0W2KGJRZE0KKF5098H/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW33R23ENSA9JBJZ6C1V/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW34ZBYYTPME4Y7J7BFR/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW4N9E88FCC3QKJN5CWE/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW4NGHAJZNW8JE6NJEA2/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW4T1K219S6E0XKG83K8/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW5196FH2PK08HET8W6A/family",
+    "https://uob-api.urbansoft.app/ft-api/api/family-tree/king/01JV07FW518JQ57VZMQMDMHMMP/family"
+  ],
+  "fileNames": [
+    "Kings.json",
+    "1.json",
+    "21.json",
+    "20.json",
+    "114.json",
+    "383.json",
+    "879.json",
+    "1317.json",
+    "2989.json",
+    "2011.json",
+    "2684.json",
+    "2692.json",
+    "2691.json",
+    "2871.json",
+    "2872.json"
+  ],
+
+   "ImageKey": "5c198c540ab5fb1a7c5b6fa39e8273d16b4b4a7b24d3acf",
+  "ImageUrl": "https://uob-api.urbansoft.app/ft-api/api/family-tree/person/id"
+}
+
+
