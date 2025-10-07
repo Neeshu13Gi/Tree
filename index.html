@@ -6,6 +6,38 @@
     <title>Unity Web Player | TreeWebGl</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+     <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      #unity-container {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        background: #ffffff;
+        width: 720px;
+        height: 1280px;
+      }
+
+      #unity-canvas {
+        width: 720px !important;
+        height: 1280px !important;
+        background: #ffffff;
+      }
+
+      #unity-loading-bar, #unity-warning {
+        text-align: center;
+        color: white;
+        font-family: sans-serif;
+      }
+    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -20,7 +52,7 @@
       <div id="unity-footer">
         <div id="unity-logo-title-footer"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">TreeWebGl</div>
+        <div id="unity-build-title">Interactive Tree</div>
       </div>
     </div>
     <script>
